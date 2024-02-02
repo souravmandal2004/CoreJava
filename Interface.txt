@@ -1,0 +1,4 @@
+Types of Interface: 
+    1. Normal Interface -->Which has more than 2 methods
+    2. Functional Interface / SAM --> One single method
+    3. Marker --> Which doesn't have any method
